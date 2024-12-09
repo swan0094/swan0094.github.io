@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea3641f5.css",
-    "main.js": "/static/js/main.5828b99c.js",
+    "main.css": "/static/css/main.64c4ce4b.css",
+    "main.js": "/static/js/main.e48d8088.js",
     "static/media/crowd_and_players_celebrating.jpg": "/static/media/crowd_and_players_celebrating.4bbbd903eec2c6979cc6.jpg",
     "static/media/Adelaide-Crows-Logo.png": "/static/media/Adelaide-Crows-Logo.0bd9d6b33e39686c8644.png",
     "static/media/hall_of_fame.jpg": "/static/media/hall_of_fame.2f74163c22b4b1c9eb8d.jpg",
@@ -10,11 +10,11 @@
     "static/media/crows_premierships.jpg": "/static/media/crows_premierships.1aaa77bff9fff3f6b40c.jpg",
     "static/media/past_players.jpg": "/static/media/past_players.62e60f60f077e16fee66.jpg",
     "index.html": "/index.html",
-    "main.ea3641f5.css.map": "/static/css/main.ea3641f5.css.map",
-    "main.5828b99c.js.map": "/static/js/main.5828b99c.js.map"
+    "main.64c4ce4b.css.map": "/static/css/main.64c4ce4b.css.map",
+    "main.e48d8088.js.map": "/static/js/main.e48d8088.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea3641f5.css",
-    "static/js/main.5828b99c.js"
+    "static/css/main.64c4ce4b.css",
+    "static/js/main.e48d8088.js"
   ]
 }
