@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Jake Soligo - 14",
+    "position": "Forward/Mid",
+    "team": "Adelaide Crows",
+    "birthdate": "January 25, 2003",
+    "nationality": "Australian",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/1017109.png",
+    "galleryImages": [
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2023/03/07/4b843ec2-38f8-4397-9691-f9dc31674e4f/Sf5ydxCr.jpg?width=1064&height=600",
+        "alt": "Jake Soligo.",
+        "likes": 6
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2024/05/02/8d8bed97-83cc-4056-b2bd-62817951926a/I2kkA5yK.jpg?width=1064&height=600",
+        "alt": "Jake Soligo celebrates handballing.",
+        "likes": 3
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2024/05/02/080d93de-0ed6-4e1c-87a4-007c662c3b1f/uHWe7MkU.jpg?width=1064&height=600",
+        "alt": "Jake Soligo wins the showdown medal.",
+        "likes": 7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jordan Dawson - 12",
+    "position": "Defender/Mid",
+    "team": "Adelaide Crows",
+    "birthdate": "April 9, 1997",
+    "nationality": "Australian",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/992242.png",
+    "galleryImages": [
+      {
+        "src": "https://resources.afc.com.au/photo-resources/2024/09/25/beed4075-4458-494c-9c16-bb2425fd8a2a/Dawson-WEB-2.png?width=1064&height=600",
+        "alt": "Jordan Dawson leading the Adelaide Crows onto the ground.",
+        "likes": 5
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2023/04/08/1765f0b3-0c9e-4889-81a6-b91a290e56d4/ITuma8nH.jpg?width=1064&height=600",
+        "alt": "Jordan Dawson tackling Andrew Brayshaw.",
+        "likes": 1
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2023/06/25/1e21e878-122f-4835-a7f4-8c502c146b25/s7Ce51yv.jpg?width=1064&height=600",
+        "alt": "Jordan Dawson kicking past Nick Daicos",
+        "likes": 8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Taylor Walker - 13",
+    "position": "Forward",
+    "team": "Adelaide Crows",
+    "birthdate": "April 25, 1990",
+    "nationality": "Australian",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/280506.png",
+    "galleryImages": [
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2022/06/07/fbbfb23b-508a-446b-9364-d0a399bf3aa6/06WBAd22DB2155.jpg%20+%20?width=1064&height=600",
+        "alt": "Taylor Walker celebrating a goal.",
+        "likes": 6
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2024/06/01/f4230750-3123-4ce6-b290-40f0072db646/M6sPQ9Iu.jpg?width=1064&height=600",
+        "alt": "Taylor Walker getting up off the ground.",
+        "likes": 3
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2023/07/24/c66d30ee-d212-4c1f-8911-c35424ae9dab/19MeAd23DP041240565.jpg?width=1064&height=600",
+        "alt": "Taylor Walker during training.",
+        "likes": 10
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Riley Thilthorpe - 7",
+    "position": "Forward/Ruck",
+    "team": "Adelaide Crows",
+    "birthdate": "July 7, 2002",
+    "nationality": "Australian",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/1008384.png",
+    "galleryImages": [
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2023/02/24/bc282632-9627-40be-9a2a-fc3305103a08/jAV8waol.jpg?width=1064&height=600",
+        "alt": "Riley Thilthorpe and Sean Darcy contest the ruck.",
+        "likes": 7
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2021/06/15/7642e666-0346-462f-9502-e98c22b8f9d6/NLVCoWDN.jpg?width=1064&height=600",
+        "alt": "Riley Thilthorpe celebrating a goal.",
+        "likes": 5
+      },
+      {
+        "src": "https://resources.afc.com.au/photo-resources/2024/03/06/75d796dd-f2fe-4044-947f-2b6fd7d6957f/Riley-Thilthorpe-WEB-2.png?width=1064&height=600",
+        "alt": "Riley Thilthorpe during training.",
+        "likes": 12
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Izak Rankine - 23",
+    "position": "Forward",
+    "team": "Adelaide Crows",
+    "birthdate": "April 23, 2000",
+    "nationality": "Australian",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/1001195.png",
+    "galleryImages": [
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2024/05/20/51b36798-e84b-4e70-a6b3-8b21d38b33e8/Rankine.jpg?width=1064&height=600",
+        "alt": "Izak Rankine celebrating a goal.",
+        "likes": 2
+      },
+      {
+        "src": "https://resources.afl.com.au/photo-resources/2023/04/01/eabd48d0-a65c-42d0-81e0-200020c0f046/oCKrG0t0.jpg?width=1064&height=600",
+        "alt": "Izak Rankine celebrating a goal with teammates Taylor Walker and Ben Keays.",
+        "likes": 7
+      },
+      {
+        "src": "https://resources.afc.com.au/photo-resources/2023/04/03/4a00738f-5c13-40c6-898b-a9c96a0599ef/Rankine-WEB-2.png?width=1064&height=600",
+        "alt": "Izak Rankine celebrating a goal.",
+        "likes": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "season": "2019",
+    "ticketSales": 512345,
+    "fanInteractions": 2134,
+    "merchandiseRevenue": 1892345,
+    "videoPlays": 512345
+  },
+  {
+    "season": "2020",
+    "ticketSales": 456789,
+    "fanInteractions": 2345,
+    "merchandiseRevenue": 1678901,
+    "videoPlays": 456789
+  },
+  {
+    "season": "2021",
+    "ticketSales": 523456,
+    "fanInteractions": 2456,
+    "merchandiseRevenue": 1923456,
+    "videoPlays": 523456
+  },
+  {
+    "season": "2022",
+    "ticketSales": 534567,
+    "fanInteractions": 2567,
+    "merchandiseRevenue": 2034567,
+    "videoPlays": 534567
+  },
+  {
+    "season": "2023",
+    "ticketSales": 600234,
+    "fanInteractions": 22012,
+    "merchandiseRevenue": 2103456,
+    "videoPlays": 1201234
+  },
+  {
+    "season": "2024",
+    "ticketSales": 789345,
+    "fanInteractions": 35456,
+    "merchandiseRevenue": 2498765,
+    "videoPlays": 2498765
+  }
+]

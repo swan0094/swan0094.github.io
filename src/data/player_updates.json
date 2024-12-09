@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Jake Soligo",
+    "status": "Injured",
+    "recoveryStage": "Working with the rehab team while maintaining 'off feet' training",
+    "nextMatchAvailability": "1-2 weeks",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/1017109.png"
+  },
+  {
+    "id": 2,
+    "name": "Taylor Walker",
+    "status": "Long term injured",
+    "recoveryStage": "Nearing the end of rehab",
+    "nextMatchAvailability": "3-4 weeks",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/280506.png"
+  },
+  {
+    "id": 3,
+    "name": "Izak Rankine",
+    "status": "Injured",
+    "recoveryStage": "Training with the main team",
+    "nextMatchAvailability": "1-2 weeks",
+    "profileImage": "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL/2024014/1001195.png"
+  }
+]
